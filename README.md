@@ -1,4 +1,9 @@
 # Vanishing India 
+## Project Overview
+
+**Vanishing India** is a digital platform created to document, preserve, and showcase India’s fading cultural traditions. Many unique art forms, festivals, rituals, and musical instruments across different regions of the country are slowly disappearing due to modernization and lack of awareness.
+
+This website aims to highlight these endangered traditions by presenting their history, cultural significance, and the communities that continue to practice them. Through an interactive and educational approach, users can explore cultures from different states of India, learn about their heritage, and understand the importance of preserving these traditions for future generations.
 
 A full-stack PHP/MySQL website replicating the Vanishing India cultural heritage platform.
 
