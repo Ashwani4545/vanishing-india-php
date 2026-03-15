@@ -1,4 +1,4 @@
-# Vanishing India — Website Setup Guide
+# Vanishing India 
 
 A full-stack PHP/MySQL website replicating the Vanishing India cultural heritage platform.
 
